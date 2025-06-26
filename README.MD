@@ -1,0 +1,3 @@
+This is the first project in the Odin project course.
+I did it as a very green beginner.
+It was not meant to be really up to standard so it doesn't have elements of responsiveness or anything advanced. It was just meant to be a practical lesson where we get to create crude websites in our local machines. However, after two weeks of learning. i revisited this project and made some fixes on the places I did terribly wrong now that I have some good knowledge of HTML and CSS.
